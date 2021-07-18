@@ -1,1 +1,0 @@
-g++ TreeNode.h Tree.h Tree.cpp TreeOperations.cpp -o solution
