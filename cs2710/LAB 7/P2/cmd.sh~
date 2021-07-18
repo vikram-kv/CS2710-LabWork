@@ -1,0 +1,1 @@
+g++ PostfixEValuation.cpp MyStack.cpp MyStack.h -o solution
