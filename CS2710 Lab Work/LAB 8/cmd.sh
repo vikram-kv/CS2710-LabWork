@@ -1,0 +1,1 @@
+g++ ElementType.h ElementType.cpp HashNode.h HashNode.cpp HashTable.cpp HashTable.h main.cpp -o solution
