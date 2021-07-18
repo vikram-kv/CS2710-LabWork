@@ -1,0 +1,1 @@
+g++ AdjacencyNode.h AdjacencyList.h AdjacencyList.cpp Graph.h Graph.cpp HeapNode.h MinHeap.h MinHeap.cpp ShortestPathFinder.cpp -o solution
